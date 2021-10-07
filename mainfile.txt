@@ -1,1 +1,2 @@
 this was the main file, but now it's so much different!!!
+adding something new to the common template
